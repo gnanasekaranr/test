@@ -1,0 +1,13 @@
+{
+  "data": {
+    "id": "40289dfc8c910a41018c910df1db0000",
+    "codeTwoLetter": "US",
+    "codeThreeLetter": "USD",
+    "country": "America",
+    "active": true
+  },
+  "message": "Successfully fetched the country.",
+  "success": true,
+  "errorCode": null,
+  "path": null
+}
